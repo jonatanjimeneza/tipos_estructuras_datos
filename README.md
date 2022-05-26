@@ -14,6 +14,6 @@ Que vamos a explicar?
 
 4⃣ Practicando en REMIX IDE
 
-Youtube:
+Youtube: https://youtu.be/kOWrsV7v7uw
 
 ![tipos struc insta](https://user-images.githubusercontent.com/101588200/170527283-ebaaf17a-0c16-406b-80e8-47ef54a93e0b.png)
